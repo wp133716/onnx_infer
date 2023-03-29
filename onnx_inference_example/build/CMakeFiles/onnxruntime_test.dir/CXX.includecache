@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/my_python_test/onnx/example/onnx_test.cpp
+iostream
+-
+vector
+-
+chrono
+-
+string
+-
+vector
+-
+onnxruntime/core/session/onnxruntime_cxx_api.h
+-
+

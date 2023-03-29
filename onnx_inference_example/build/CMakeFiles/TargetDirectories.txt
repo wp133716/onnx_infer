@@ -1,0 +1,3 @@
+/home/user/my_python_test/onnx/example/build/CMakeFiles/rebuild_cache.dir
+/home/user/my_python_test/onnx/example/build/CMakeFiles/edit_cache.dir
+/home/user/my_python_test/onnx/example/build/CMakeFiles/onnxruntime_test.dir
