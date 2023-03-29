@@ -1,3 +1,0 @@
-/home/user/my_python_test/onnx/test/build/CMakeFiles/rebuild_cache.dir
-/home/user/my_python_test/onnx/test/build/CMakeFiles/edit_cache.dir
-/home/user/my_python_test/onnx/test/build/CMakeFiles/onnx_infer.dir

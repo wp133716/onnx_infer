@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/onnxruntime_test.dir/onnx_test.cpp.o  -o onnxruntime_test  -lonnxruntime -lonnxruntime_providers_shared 

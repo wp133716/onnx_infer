@@ -19,7 +19,7 @@ private:
     Ort::Env env;
     Ort::SessionOptions session_options;
     const char* onnxModelPath;
-    // Ort::Session session;
+    Ort::Session session;
 
     vector<const char*> input_node_names;
     vector<const char*> output_node_names;
