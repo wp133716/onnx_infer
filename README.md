@@ -7,7 +7,13 @@ Use onnxruntime to deploy the model in the c++ for inference
  - cuda 11.6
  - cudnn 8.2.4 
 #### 参考链接
-- [https://blog.csdn.net/mightbxg/article/details/119237326](https://blog.csdn.net/mightbxg/article/details/119237326)
+- [onnxruntime (C++/CUDA) 编译安装及部署
+ https://blog.csdn.net/weixin_44684139/article/details/123504222](https://blog.csdn.net/weixin_44684139/article/details/123504222)
+- [Ubuntu下的onnxruntime(c++)编译 https://blog.csdn.net/weixin_42990464/article/details/126636122](https://blog.csdn.net/weixin_42990464/article/details/126636122)
+- [PyTorch模型C++部署
+ https://blog.csdn.net/mightbxg/article/details/119237326](https://blog.csdn.net/mightbxg/article/details/119237326)
+- [onnxruntime源码编译 https://blog.csdn.net/wuqingshan2010/article/details/106372580](https://blog.csdn.net/wuqingshan2010/article/details/106372580)
+- [全网最详细 ONNXRuntime C++/Java/Python 资料 https://zhuanlan.zhihu.com/p/414317269](https://zhuanlan.zhihu.com/p/414317269)
 ## ONNX Runtime
 ONNX (Open Neural Network Exchange) 是微软和脸书主导的深度学习开发工具生态系统，ONNX Runtime (简称 ORT) 则是微软开发的跨平台高性能机器学习训练与推理加速器，根据官方的说法推理/训练速度最高能有 17X/1.4X 的提升，其优异的性能非常适合深度学习模型部署。
 
